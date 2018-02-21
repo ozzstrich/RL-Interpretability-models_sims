@@ -1,0 +1,14 @@
+************ Commands to be copied into terminal ************ 
+
+
+./train-atari.py --task play --env Centipede-v0 --load Centipede-v0.tfmodel
+
+./train-atari.py --task play --env Jamesbond-v0 --load Jamesbond-v0.tfmodel
+
+./train-atari.py --task play --env Zaxxon-v0 --load Zaxxon-v0.tfmodel
+
+./train-atari.py --task play --env BattleZone-v0 --load BattleZone-v0.tfmodel
+
+./train-atari.py --task play --env ChopperCommand-v0 --load ChopperCommand-v0.tfmodel
+
+./train-atari.py --task play --env Breakout-v0 --load Breakout-v0.npz
