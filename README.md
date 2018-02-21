@@ -1,3 +1,6 @@
+<H1> CE888 Assignment </H1>
+<H2> Reinforcement Learning & Interpretability </H2>
+
 This repo is for the CE888 Data Science and Decision Making assignment.
 The goal for the assignment is to analyse and interpret the actions of an Atari game-based reinforcement learning agent.
 
