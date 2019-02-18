@@ -1,8 +1,6 @@
-<H1> CE888 Assignment </H1>
 <H2> Reinforcement Learning & Interpretability </H2>
 
-This repo is for the CE888 Data Science and Decision Making assignment.
-The goal for the assignment is to analyse and interpret the actions of an Atari game-based reinforcement learning agent.
+The goal for the project is to analyse and interpret the actions of an Atari game-based reinforcement learning agent.
 
 The original code for this agent can be found here: https://github.com/ppwwyyxx/tensorpack/tree/master/examples/A3C-Gym
 
